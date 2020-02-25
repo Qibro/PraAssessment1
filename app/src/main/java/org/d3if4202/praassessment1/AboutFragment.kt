@@ -15,7 +15,7 @@ class AboutFragment : Fragment() {
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
-        binding = DataBindingUtil.inflate(inflater,R.layout.fragment_persegi_panjang,container,false)
+        binding = DataBindingUtil.inflate(inflater,R.layout.fragment_about,container,false)
         return binding.root
     }
 

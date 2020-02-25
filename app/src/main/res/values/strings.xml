@@ -3,4 +3,9 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="segitiga">Segitiga</string>
+    <string name="persegi_panjang">Persegi Panjang</string>
+    <string name="about">About</string>
+    <string name="pp_luas">0</string>
+    <string name="pp_keliling">0</string>
 </resources>
